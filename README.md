@@ -7,8 +7,8 @@ Ubuntu 24.04 with Node 22, pnpm, bun, gh, python3, git, ripgrep, and common dev 
 ## Usage
 
 ```
-docker pull ghcr.io/<owner>/kimaki-image:latest
-docker run -it ghcr.io/<owner>/kimaki-image
+docker pull ghcr.io/0x28f4/kimaki-image:latest
+docker run -it ghcr.io/0x28f4/kimaki-image
 ```
 
 ## Build locally
